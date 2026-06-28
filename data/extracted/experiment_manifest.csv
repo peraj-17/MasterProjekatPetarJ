@@ -1,0 +1,7 @@
+experiment_id,file_name,relative_path,patient_id,class_label,dilution
+patient_10a_exp_1,2023_11_01_CGNs_isolated3010_CSF_3.xlsx,10a_1..25/2023_11_01_CGNs_isolated3010_CSF_3.xlsx,10a,SMA,1_25
+patient_10b_exp_1,2023_07_10_CGNs_isolated0807_CSF_2_480nm-fitc_svi_ROI_min0.1.xlsx,10b_1..25/2023_07_10_CGNs_isolated0807_CSF_2_480nm-fitc_svi_ROI_min0.1.xlsx,10b,SMA,1_25
+patient_10b_exp_2,2023_07_10_CGNs_isolated0807_CSF_9_480nm-fitc_svi_ROI_min0.1.xlsx,10b_1..25/2023_07_10_CGNs_isolated0807_CSF_9_480nm-fitc_svi_ROI_min0.1.xlsx,10b,SMA,1_25
+patient_3_exp_1,2024_02_16_CGNs_iso1302_4.xlsx,3_1..25/2024_02_16_CGNs_iso1302_4.xlsx,3,ALS,1_25
+patient_4_exp_1,2023_11_11_CGNs_isolated0911_CSF_5_min0.1.xlsx,4_1..25/2023_11_11_CGNs_isolated0911_CSF_5_min0.1.xlsx,4,ALS,1_25
+patient_7_exp_1,2023_07_17_CGNs_isolated1407_CSF_5_480nm-fitc_svi_ROI_min0.1.xlsx,7_1..25/2023_07_17_CGNs_isolated1407_CSF_5_480nm-fitc_svi_ROI_min0.1.xlsx,7,Control,1_25

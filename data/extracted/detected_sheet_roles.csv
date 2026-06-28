@@ -1,0 +1,7 @@
+file_name,relative_path,normalized_sheet,k_summary_sheet,k_fit_sheet,csf_summary_sheet,csf_fit_sheet,all_fit_sheets
+2023_11_01_CGNs_isolated3010_CSF_3.xlsx,10a_1..25/2023_11_01_CGNs_isolated3010_CSF_3.xlsx,Sheet2,Sheet3,Sheet4,Sheet7,Sheet8,"Sheet4, Sheet6, Sheet8, Sheet10"
+2023_07_10_CGNs_isolated0807_CSF_2_480nm-fitc_svi_ROI_min0.1.xlsx,10b_1..25/2023_07_10_CGNs_isolated0807_CSF_2_480nm-fitc_svi_ROI_min0.1.xlsx,Sheet2,Sheet3,Sheet4,Sheet5,Sheet6,"Sheet4, Sheet6, Sheet8, Sheet10"
+2023_07_10_CGNs_isolated0807_CSF_9_480nm-fitc_svi_ROI_min0.1.xlsx,10b_1..25/2023_07_10_CGNs_isolated0807_CSF_9_480nm-fitc_svi_ROI_min0.1.xlsx,Sheet2,Sheet3,Sheet4,Sheet5,Sheet6,"Sheet4, Sheet6, Sheet8"
+2024_02_16_CGNs_iso1302_4.xlsx,3_1..25/2024_02_16_CGNs_iso1302_4.xlsx,Sheet2,Sheet3,Sheet4,Sheet7,Sheet8,"Sheet4, Sheet6, Sheet8"
+2023_11_11_CGNs_isolated0911_CSF_5_min0.1.xlsx,4_1..25/2023_11_11_CGNs_isolated0911_CSF_5_min0.1.xlsx,Sheet2,Sheet3,Sheet4,Sheet5,Sheet6,"Sheet4, Sheet6, Sheet8"
+2023_07_17_CGNs_isolated1407_CSF_5_480nm-fitc_svi_ROI_min0.1.xlsx,7_1..25/2023_07_17_CGNs_isolated1407_CSF_5_480nm-fitc_svi_ROI_min0.1.xlsx,Sheet2,Sheet3,Sheet4,Sheet5,Sheet6,"Sheet4, Sheet6, Sheet8"
