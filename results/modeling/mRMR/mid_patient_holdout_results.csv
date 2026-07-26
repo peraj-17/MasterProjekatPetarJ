@@ -1,0 +1,17 @@
+model,feature_set,held_out_patient,true_class,n_test_rois,correct_class_recall,analysis_variant,mrmr_method,n_selected_features
+mid_lr_4,mid_4,3,ALS,163,0.25766871165644173,mid_4,MID,4
+mid_lr_4,mid_4,4,ALS,106,0.16981132075471697,mid_4,MID,4
+mid_lr_4,mid_4,10a,SMA,230,0.47391304347826085,mid_4,MID,4
+mid_lr_4,mid_4,10b,SMA,315,0.6063492063492063,mid_4,MID,4
+mid_lr_6,mid_6,3,ALS,163,0.04294478527607362,mid_6,MID,6
+mid_lr_6,mid_6,4,ALS,106,0.25471698113207547,mid_6,MID,6
+mid_lr_6,mid_6,10a,SMA,230,0.034782608695652174,mid_6,MID,6
+mid_lr_6,mid_6,10b,SMA,315,0.012698412698412698,mid_6,MID,6
+mid_lr_8,mid_8,3,ALS,163,0.03680981595092025,mid_8,MID,8
+mid_lr_8,mid_8,4,ALS,106,0.22641509433962265,mid_8,MID,8
+mid_lr_8,mid_8,10a,SMA,230,0.030434782608695653,mid_8,MID,8
+mid_lr_8,mid_8,10b,SMA,315,0.012698412698412698,mid_8,MID,8
+mid_lr_10,mid_10,3,ALS,163,0.04294478527607362,mid_10,MID,10
+mid_lr_10,mid_10,4,ALS,106,0.2830188679245283,mid_10,MID,10
+mid_lr_10,mid_10,10a,SMA,230,0.05652173913043478,mid_10,MID,10
+mid_lr_10,mid_10,10b,SMA,315,0.01904761904761905,mid_10,MID,10
