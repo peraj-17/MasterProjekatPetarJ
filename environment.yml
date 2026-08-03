@@ -1,0 +1,15 @@
+name: calcium-response-ml
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.13
+  - numpy=2.4
+  - pandas=3.0
+  - matplotlib
+  - scikit-learn=1.9
+  - feature_engine=1.9
+  - openpyxl
+  - jupyterlab
+  - ipykernel
