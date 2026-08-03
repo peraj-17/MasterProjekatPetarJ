@@ -1,0 +1,3 @@
+analysis,threshold_type,threshold,n_below_threshold,fraction_below_threshold
+absolute_k_amplitude,two_component_gmm_equal_probability,2.4304369095272422,1360,0.2788599548903014
+relative_k_amplitude,two_component_gmm_equal_probability,0.6397326762935985,636,0.13040803772811155
