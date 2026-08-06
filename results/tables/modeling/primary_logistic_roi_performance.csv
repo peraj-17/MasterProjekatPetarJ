@@ -1,0 +1,6 @@
+Skup osobina,Br. osobina,Tačnost,Srednja balansirana tačnost,Srednja Makro-F1 vrednost,Trening/test razlika balansirane tačnosti
+combined_with_ratios,10,0.912,0.921 ± 0.007,0.906 ± 0.008,0.007
+combined_peak,8,0.911,0.920 ± 0.013,0.904 ± 0.012,0.006
+k_reference,3,0.745,0.785 ± 0.034,0.741 ± 0.038,-0.0
+csf_response,5,0.697,0.718 ± 0.019,0.682 ± 0.027,0.009
+response_status,2,0.518,0.502 ± 0.024,0.409 ± 0.033,0.011

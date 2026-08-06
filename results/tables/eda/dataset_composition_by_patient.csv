@@ -1,0 +1,6 @@
+Pacijent,Klasa,Br. eksperimenata,Br. ROI,Udeo u setu podataka,Stopa odgovora na CSF,Stopa višestrukih odgovora
+3,ALS,1,163,0.163,0.902,0.0
+4,ALS,1,106,0.106,0.915,0.066
+7,Control,1,183,0.184,0.989,0.109
+10a,SMA,1,230,0.231,0.939,0.043
+10b,SMA,2,315,0.316,0.108,0.022

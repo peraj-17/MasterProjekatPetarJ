@@ -1,0 +1,6 @@
+Skup osobina,Srednja senzitivnost,Minimalna senzitivnost,Maksimalna senzitivnost
+k_reference,0.447 ± 0.232,0.166,0.735
+response_status,0.249 ± 0.402,0.0,0.849
+combined_peak,0.209 ± 0.130,0.061,0.377
+combined_with_ratios,0.146 ± 0.106,0.057,0.292
+csf_response,0.034 ± 0.023,0.003,0.057
