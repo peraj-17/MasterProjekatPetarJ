@@ -4,11 +4,13 @@ This repository contains the computational workflow developed for a master's the
 
 The analysis investigates whether quantitative features of calcium-associated fluorescence responses can distinguish samples associated with **amyotrophic lateral sclerosis (ALS)**, **spinal muscular atrophy (SMA)**, and a **control** condition, and tests whether the learned patterns generalize to observations from previously unseen donors.
 
+*Language note: the notebooks presented in this repository were originally developed as part of an MSc thesis written in Serbian; the Markdown narrative text inside them is therefore written in Serbian, while most of the code, variable names and project documentation are in English.*
+
 ## Project overview
 
 Primary rat cerebellar granule neurons were exposed to cerebrospinal fluid (CSF) obtained from ALS, SMA, and control donors. Calcium-associated fluorescence responses were measured using Fluo-4 AM and summarized through direct response characteristics and fitted kinetic parameters.
 
-The computational workflow starts from preprocessed Excel workbooks produced by the experimental group. Upstream fluorescence normalization, peak detection, and biexponential fitting were performed separately and are not reimplemented here.
+The computational workflow of the thesis itself starts from preprocessed Excel workbooks produced by the experimental group. Upstream fluorescence normalization, peak detection, and biexponential fitting were performed separately and are not reimplemented here.
 
 The main analysis comprises:
 
@@ -124,5 +126,3 @@ This repository accompanies the corresponding master's thesis at the University 
 
 **Title:**  
 *Development of machine learning model for the classification of neurodegenerative conditions based on neuronal calcium signaling dynamics*
-
-
